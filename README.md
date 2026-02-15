@@ -152,7 +152,7 @@ chungyn@hanyang.ac.kr </br>
 
 ### Experimental Setup
 
-본 연구의 모든 실험은 일관된 환경과 평가 기준 하에서 수행되었습니다. 계산 환경은 128GB RAM, Intel® Xeon® w5-2455X CPU, 24GB 메모리를 갖춘 NVIDIA GeForce RTX 4090 GPU가 장착된 서버로 구성되었습니다. 모델 구현에는 Python 3.13.5, numpy 2.2.6, pandas 2.3.2, scikit-learn 1.7.1, PyTorch 2.8.0이 사용되었습니다.
+본 연구의 모든 실험은 일관된 환경과 평가 기준 하에서 수행되었습니다. 계산 환경은 13세대 Intel® Core™ i7-13700K CPU와 24GB 메모리를 갖춘 NVIDIA GeForce RTX 4090 GPU로 구성되었습니다. 모델 구현에는 Python 3.11.14, NumPy 2.0.1, pandas 2.3.3, scikit-learn 1.7.2, PyTorch 2.5.1이 사용되었습니다.
 
 ---
 
