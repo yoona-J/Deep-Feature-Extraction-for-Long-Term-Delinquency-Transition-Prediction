@@ -72,7 +72,7 @@ This is the dataset produced by the feature extractor, which corresponds to Figu
 
 ### Experimental Setup
 
-All experiments in this study were conducted under a consistent environment and evaluation criteria. The computational environment comprised a server equipped with 128 GB of RAM, an Intel® Xeon® w5-2455X CPU, and an NVIDIA GeForce RTX 4090 GPU with 24 GB of memory. Models were implemented using Python 3.13.5, with numpy 2.2.6, pandas 2.3.2, scikit-learn 1.7.1, and PyTorch 2.8.0.
+All experiments in this study were conducted under a consistent environment and evaluation criteria. The computational environment consisted of a 13th Gen Intel® Core™ i7-13700K CPU, and an NVIDIA GeForce RTX 4090 GPU with 24 GB of memory. Models were implemented using Python 3.11.14, NumPy 2.0.1, pandas 2.3.3, scikit-learn 1.7.2, and PyTorch 2.5.1.
 
 ---
 
