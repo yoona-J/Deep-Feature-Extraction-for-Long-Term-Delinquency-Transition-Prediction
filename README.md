@@ -41,7 +41,7 @@ Deep-learning-based feature extraction aims to capture latent representations fr
 
 <br />
 
-<img width="2500" height="1080" alt="001" src="https://github.com/user-attachments/assets/fbea8f78-90f2-4ce8-99dd-e652b20db7d6" />
+<img width="1828" height="1076" alt="KCB_Figure_복사본-001" src="https://github.com/user-attachments/assets/928ff93a-631d-4879-8c4a-a0e8b511e34f" />
 <p align='center'>Figure 3. Overall of Deep Learning-based Model Architecture</p>
 
 To facilitate a more effective feature extraction from the data, we designed a hybrid encoder architecture that combines the global interaction learning capability of the Transformer-based self-attention block with the soft feature selection block of TabNet. The encoder is not designed as a standalone deep learning classifier but rather serves as a feature generation module that enhances the representational capacity of the input feature space, reshaping it into a risk-separable representation using the deep learning components described earlier for feature generation. The overall architecture of the model is illustrated in Figure 3. </br>
@@ -54,8 +54,6 @@ To facilitate a more effective feature extraction from the data, we designed a h
 
 - [Data Preprocess](Data_Preprocessing.ipynb)
 - [Experiments](final_experiment.ipynb)
-
-</br >
 
 #### Dataset
 
@@ -121,7 +119,8 @@ chungyn@hanyang.ac.kr </br>
 
 <br />
 
-<img width="2500" height="1080" alt="001" src="https://github.com/user-attachments/assets/fbea8f78-90f2-4ce8-99dd-e652b20db7d6" />
+
+<img width="1828" height="1076" alt="KCB_Figure_복사본-001" src="https://github.com/user-attachments/assets/928ff93a-631d-4879-8c4a-a0e8b511e34f" />
 <p align='center'>Figure 3. 딥러닝 기반 모델 아키텍처의 개요도</p>
 
 데이터로부터 보다 효과적인 특징 추출을 위해, 본 연구에서는 Transformer 기반 셀프 어텐션 블록의 전역 상호작용 학습 능력과 TabNet의 소프트 특징 선택 블록을 결합한 하이브리드 인코더 아키텍처를 설계했습니다. 이 인코더는 독립적인 딥러닝 분류기로 설계된 것이 아니라, 입력 특징 공간의 표현력을 향상시키고, 앞서 설명한 특징 생성 구성 요소를 활용하여 위험 분리 가능한 표현으로 재구성하는 특징 생성 모듈 역할을 합니다. 모델의 전체 아키텍처는 그림 3에 나타나 있습니다. </br>
@@ -134,8 +133,6 @@ chungyn@hanyang.ac.kr </br>
 
 - [Data Preprocess](Data_Preprocessing.ipynb)
 - [Experiments](final_experiment.ipynb)
-
-</br >
 
 #### Dataset
 
