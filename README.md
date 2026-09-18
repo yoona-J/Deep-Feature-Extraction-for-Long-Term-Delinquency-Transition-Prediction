@@ -34,7 +34,7 @@ The early identification of borrowers at risk of transitioning into long-term de
 
 ## Method of Our Research
 
-<img width="1741" height="1034" alt="KCB_Figure-002" src="https://github.com/user-attachments/assets/9beb5e66-744f-4cd8-be7c-1afc49f8e8ba" />
+<img width="2294" height="1354" alt="Figure_2" src="https://github.com/user-attachments/assets/f34f21ff-49aa-4661-b330-3bfee449d72f" />
 <p align='center'>Figure 2. Configuration Diagram of Feature Extract</p>
 
 Deep-learning-based feature extraction aims to capture latent representations from existing financial variables while simultaneously reflecting the relative importance of each variable. To this end, as illustrated in Figure 2, we leverage the Transformer and TabNet model architectures, which are commonly used for feature extraction, to progressively extract representation information from complementary perspectives. <br />
@@ -112,7 +112,7 @@ chungyn@hanyang.ac.kr </br>
 
 ## Method of Our Research
 
-<img width="1741" height="1034" alt="KCB_Figure-002" src="https://github.com/user-attachments/assets/9beb5e66-744f-4cd8-be7c-1afc49f8e8ba" />
+<img width="2294" height="1354" alt="Figure_2" src="https://github.com/user-attachments/assets/71f485da-1628-43d9-8633-31d4cc9e3458" />
 <p align='center'>그림 2. 특징 추출기 구성도</p>
 
 딥러닝 기반 특징 추출은 기존 금융 변수에서 잠재적 표현을 포착하는 동시에 각 변수의 상대적 중요도를 반영하는 것을 목표로 합니다. 이를 위해 그림 2에서 보여주는 것처럼 특징 추출에 일반적으로 사용되는 Transformer 및 TabNet 모델 아키텍처를 활용하여 상호 보완적인 관점에서 표현 정보를 점진적으로 추출합니다. <br />
