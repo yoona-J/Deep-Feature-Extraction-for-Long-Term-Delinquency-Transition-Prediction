@@ -7,7 +7,7 @@
 **English**<a name="English"></a>
 
 This repository is designed to ensure the reproducibility of the article. <br />
-**Note**: This study was conducted with KCB (Korea Credit Bureau) Data.
+**Note**: This study was conducted with Korea Credit Bureau (KCB) Data.
 
 ---
 
@@ -65,6 +65,8 @@ The original dataset was postprocessed to fit the study cohort.
 - [Feature Extractor_Test](Datasets/X_test_mega_39.csv)
 
 This is the dataset produced by the feature extractor, which corresponds to Figure 2.
+
+The record-level source data used in this study were provided directly to the authors by Korea Credit Bureau in 2025 for research purposes (https://www.koreacb.com/kr/etc/policy_pseudo). Because the source data contain sensitive borrower information and are subject to privacy and raw-data redistribution restrictions, they cannot be made publicly available. To support reproducibility while complying with these restrictions, all data released for the reported experiments consist of de-identified and postprocessed data derived from the Korea Credit Bureau source data. 
 
 </br >
 
@@ -144,6 +146,8 @@ chungyn@hanyang.ac.kr </br>
 - [Feature Extractor_Test](Datasets/X_test_mega_39.csv)
 
 해당 데이터셋은 그림 2와 같이 특징 추출기가 생성한 데이터셋을 csv로 추출한 값입니다.
+
+본 연구에 사용된 개별 단위(record-level) 원천 데이터는 연구 목적으로 2025년 KCB로부터 저자들에게 직접 제공되었습니다(https://www.koreacb.com/kr/etc/policy_pseudo). 해당 원천 데이터에는 민감한 차입자 정보가 포함되어 있으며 개인정보 보호 및 원시 데이터 재배포 제한 규정이 적용되므로, 이를 외부에 공개할 수는 없습니다. 이러한 제한 사항을 준수하면서도 연구의 재현성을 확보하기 위해, 보고된 실험에 사용된 모든 데이터는 KCB 원천 데이터를 기반으로 식별 정보를 제거하고 후처리한 형태로 구성되었습니다.
 
 </br >
 
